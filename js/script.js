@@ -18,8 +18,9 @@ $(document).ready(function() {
       else {
         results += "Scalene Triangle"
       }
-    
+
       document.getElementById("output").innerHTML = results;
       event.preventDefault();
+      $("#forms1").fadeOut();
   });
 });
