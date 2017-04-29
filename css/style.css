@@ -30,4 +30,9 @@ body{
   text-align: center;
   margin-top: 80px;
   color: white;
+  font-family: 'Teko', sans-serif;
+}
+.footer img{
+  width: 30px;
+  height: 30px;
 }
